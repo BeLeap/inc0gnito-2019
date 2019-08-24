@@ -5,7 +5,7 @@ Intro
 1. SMB 취약점
     1. Server Message Block
      <br/>->WIndows의 주변 장치 공유에 사용
-     2. 원격 코므 실행
+     2. 원격 코드 실행
 Conficker
 --------------------------------------------
 1. CVE-2008-4250
